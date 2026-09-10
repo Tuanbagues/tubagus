@@ -34,7 +34,7 @@ function Home() {
               <span className="italic text-clay">right</span> years later.
             </h1>
             <p className="mt-8 max-w-md text-lg leading-relaxed text-ink-soft">
-              I'm Marisol Fenn, a Brooklyn-based designer building identity
+              I'm TB.ACHMAD ILHAM EFENDI, a Brooklyn-based designer building identity
               systems, editorial objects, and websites for people who care
               about the print run as much as the pixels.
             </p>
@@ -59,7 +59,7 @@ function Home() {
             <div className="absolute -right-4 top-6 hidden h-full w-full border border-clay/50 md:block" />
             <OptimizedImage
               src="/headshot-on-white.jpg"
-              alt="Marisol Fenn in her Bushwick studio"
+              alt="TB.ACHMAD ILHAM EFENDI in her Bushwick studio"
               widths={[400, 600, 800]}
               sizes="(min-width: 768px) 380px, 70vw"
               className="relative aspect-[4/5] w-full max-w-sm object-cover"
