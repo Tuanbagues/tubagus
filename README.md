@@ -1,6 +1,6 @@
-# Marisol Fenn — Portfolio
+# TB.ACHMAD ILHAM EFENDI — Portfolio
 
-A personal portfolio site for Marisol Fenn, a Brooklyn-based visual designer. Includes a home page, an image gallery, a project showcase, an about page, and a contact page with social links.
+A personal portfolio site for TB.ACHMAD ILHAM EFENDI, a Brooklyn-based visual designer. Includes a home page, an image gallery, a project showcase, an about page, and a contact page with social links.
 
 ## Tech stack
 
