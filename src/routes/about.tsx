@@ -42,7 +42,7 @@ function About() {
           <div className="md:col-span-4">
             <OptimizedImage
               src="/headshot-on-white.jpg"
-              alt="Marisol Fenn"
+              alt="TB.ACHMAD ILHAM EFENDI"
               widths={[350, 550, 750]}
               sizes="(min-width: 768px) 320px, 80vw"
               className="aspect-[4/5] w-full max-w-sm object-cover"
